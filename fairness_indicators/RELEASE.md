@@ -17,6 +17,8 @@
 ## Major Features and Improvements
 
 *   Made the Fairness Indicators UI thresholds drop down list sorted.
+*   Fix the bug that Sort menu is not hidden when there is no model comparison.
+*   Add metric definitions as tooltips in the metric selector UI
 
 ## Bug fixes and other changes
 
